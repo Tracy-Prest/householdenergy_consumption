@@ -9,7 +9,6 @@ High household energy use and rising electricity costs make it hard to track con
 # Data
 - Dataset includes household energy usage from January 2023 to January 2024
 - Energy consumption measured in kWh
-- Place the dataset file in the `data/` folder
 
 # Recommendations
 - Optimize appliance usage
