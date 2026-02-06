@@ -1,20 +1,8 @@
-<<<<<<< HEAD
 # Household_Consumption
 High household energy use and rising electricity costs make it hard to track consumption. This analysis uses Power BI to identify high-usage appliances, peak times, and trends, helping households optimize usage, reduce costs, and improve energy efficiency. This project analyzes household energy consumption patterns using Power BI and DAX measures. It provides insights on appliance usage, peak consumption periods, and opportunities for energy optimization.
 
 # Key Features 
-- An interactive Power BI dashboard
-=======
-# householdenergy_consumption
-High household energy use and rising electricity costs make it hard to track consumption. This analysis uses Power BI to identify high-usage appliances, peak times, and trends, helping households optimize usage, reduce costs, and improve energy efficiency.
-Household Energy Consumption Analysis 
-
-This project analyzes household energy consumption patterns using Power BI and DAX measures. 
-It provides insights on appliance usage, peak consumption periods, and opportunities for energy optimization.
-
-# Key Features 
 - Interactive Power BI dashboard
->>>>>>> 12d8d64c791f5c1e2700b13b644678b62a3ac8c9
 - KPIs: Total Energy, Average Energy per Household/Appliance, Most Used Appliance, Peak Season
 - Analysis of peak hours, high-consumption appliances, and seasonal trends
 
@@ -22,12 +10,12 @@ It provides insights on appliance usage, peak consumption periods, and opportuni
 - Dataset includes household energy usage from January 2023 to January 2024
 - Energy consumption measured in kWh
 
+# Tools
+- Excel
+- Power BI 
+
 # Recommendations
 - Optimize appliance usage
 - Shift energy use to off-peak periods
 - Invest in energy-efficient appliances
 - Monitor energy consumption via dashboards
-<<<<<<< HEAD
-=======
-
->>>>>>> 12d8d64c791f5c1e2700b13b644678b62a3ac8c9
